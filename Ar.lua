@@ -1,5 +1,5 @@
 local allowedPlaceIds = {
-    [15376909601] = true -- Arise Crossover
+    [87039211657390] = true -- Arise Crossover
 }
 
 if not allowedPlaceIds[game.PlaceId] then
